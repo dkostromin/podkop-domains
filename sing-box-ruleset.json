@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "github.com",
+        "api.github.com",
+        "githubusercontent.com",
+        "copilot-proxy.githubusercontent.com",
+        "copilot-telemetry.githubusercontent.com",
+        "origin-tracker.githubusercontent.com",
+        "githubcopilot.com",
+        "individual.githubcopilot.com",
+        "business.githubcopilot.com",
+        "enterprise.githubcopilot.com",
+        "copilot-proxy.com",
+        "copilot.proxy.com",
+        "exp-tas.com",
+        "coder.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "netsuite.com",
+        "app.netsuite.com",
+        "oracle.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "gemini.google.com",
+        "opencode.ai",
+        "raycast.com",
+        "figma.com",
+        "postman.com",
+        "sentry.io",
+        "qoder.com",
+        "qoder.sh",
+        "reportlayer.com",
+        "app.reportlayer.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "docker.com",
+        "docker.io",
+        "auth0.com",
+        "cdn.auth0.com",
+        "s3.amazonaws.com",
+        "cloudflarestorage.com",
+        "amazonaws.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "google.com",
+        "googleapis.com",
+        "meet.google.com",
+        "meetings.googleapis.com",
+        "meetings-pa.googleapis.com",
+        "play.google.com",
+        "g.co",
+        "ssl.gstatic.com",
+        "googleusercontent.com",
+        "ggpht.com",
+        "apis.google.com",
+        "clients4.google.com",
+        "clients6.google.com",
+        "mtalk.google.com",
+        "lh3.googleusercontent.com",
+        "stun.l.google.com",
+        "drivefrontend-pa.googleapis.com",
+        "signaler-pa.googleapis.com",
+        "firestore.googleapis.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "slack.com",
+        "zoom.us",
+        "zoom.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "okta.com",
+        "oktacdn.com",
+        "brilliantearth.com",
+        "brilliantearth.okta.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "stripe.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ngrok.com",
+        "ngrok-free.com",
+        "ngrok-agent.com",
+        "cloudfront.net",
+        "awsglobalaccelerator.com",
+        "cloudflare.com",
+        "challenges.cloudflare.com",
+        "speedtest.net",
+        "dnsleaktest.com",
+        "2ip.io",
+        "namecheap.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "4pda.to"
+      ]
+    }
+  ]
+}
